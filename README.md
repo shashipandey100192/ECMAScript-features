@@ -1,6 +1,7 @@
 # ECMAScript Features or Cheatsheet
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :✍:if you like the project and follow [@Shashi Pandey](https://www.youtube.com/results?search_query=darkjs) for technical updates. 
+
 
 ## How to run examples
 ```cmd
